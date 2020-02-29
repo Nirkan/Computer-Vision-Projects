@@ -81,7 +81,10 @@ cv2.destroyAllWindows()
 
 
 
-### To Run this code above type on your command line terminal  the name of .py file with name of image in front of it (Example: colors.py -i colorimage.jpg) This command in the example will run the code and we will get a window with colorimage.jpg, we can click the window and find the at the position where we click the mouse button twice. To escape the window press esc key on the top left of the keyboard. ###
+"""To Run this code above type on your command line terminal  the name of .py file with name of image in front of it 
+(Example: colors.py -i colorimage.jpg) This command in the example will run the code and we will get a window with colorimage.
+jpg, we can click the window and find the at the position where we click the mouse button twice. To escape the window press 
+esc key on the top left of the keyboard."""
 
  
 
