@@ -1,3 +1,4 @@
+# Python version 2.7
 # Importing packages
 import cv2
 import numpy as np
