@@ -1,2 +1,2 @@
-# Image-Processing-Projects
-Image Processing Projects
+
+Image Processing and computer vision Projects in Python
